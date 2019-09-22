@@ -1,0 +1,16 @@
+{
+	"Models": [
+		{
+			"type": "Sport"
+		},
+		{
+			"type": "VAN"
+		},
+		{
+			"type": "SUV"
+		},
+		{
+			"type": "Hatchback"
+		}
+	]
+}
